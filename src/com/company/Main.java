@@ -13,7 +13,6 @@ public class Main {
 	int rakete = 25;
 	int laser = 15;
 	int bullet = 10;
-	int waffe;
 	User user = new User();
 	Enemy enemy = new Enemy();
 
